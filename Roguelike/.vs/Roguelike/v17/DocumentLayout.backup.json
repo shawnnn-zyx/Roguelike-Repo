@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|d:\\nyu\\2nd semester\\intro to programming in unity\\roguelike\\assets\\scripts\\weapon_range_magic2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon_range_magic2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|d:\\nyu\\2nd semester\\intro to programming in unity\\roguelike\\assets\\scripts\\weapon_range_magic1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon_range_magic1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\assets\\scripts\\weapon_lightening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon_lightening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\assets\\scripts\\weapon_laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon_laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\assets\\scripts\\enemies_spawn_customize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies_spawn_customize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\assets\\scripts\\enemies_spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies_spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\assets\\scripts\\weapon_swing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon_swing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\assets\\scripts\\enemies_hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies_hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\assets\\scripts\\player_hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player_hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\assets\\scripts\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\assets\\scripts\\enemies_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\assets\\scripts\\scene_goalchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene_goalchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\assets\\scripts\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\assets\\scripts\\uimanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\assets\\scripts\\ui_scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\assets\\scripts\\ui_scoretreasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_scoretreasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\assets\\scripts\\in-class\\week 4\\mathbasedmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D7A7B-B193-C7B8-731F-3F701A73DF6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\in-class\\week 4\\mathbasedmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weapon_Range_Magic2.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Weapon_Range_Magic2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon_Range_Magic2.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Weapon_Range_Magic2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon_Range_Magic2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:18:11.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weapon_Range_Magic1.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Weapon_Range_Magic1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon_Range_Magic1.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Weapon_Range_Magic1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon_Range_Magic1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:00:34.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weapon_Laser.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Weapon_Laser.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon_Laser.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Weapon_Laser.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon_Laser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:00:11.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemies_Spawn_Customize.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Enemies_Spawn_Customize.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies_Spawn_Customize.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Enemies_Spawn_Customize.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies_Spawn_Customize.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAcwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:29:55.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weapon_Lightening.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Weapon_Lightening.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon_Lightening.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Weapon_Lightening.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon_Lightening.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:11:27.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player_Movement.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Player_Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player_Movement.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Player_Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player_Movement.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:12:46.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Scene_GoalChange.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Scene_GoalChange.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene_GoalChange.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Scene_GoalChange.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene_GoalChange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T18:52:00.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SceneChanger.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\SceneChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChanger.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\SceneChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:03:07.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UImanage.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\UImanage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UImanage.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\UImanage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UImanage.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAD4v5gAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:02:19.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player_HP.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Player_HP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player_HP.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Player_HP.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player_HP.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:30:34.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UI_ScoreTreasure.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\UI_ScoreTreasure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_ScoreTreasure.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\UI_ScoreTreasure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_ScoreTreasure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:11:47.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UI_ScoreManager.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\UI_ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_ScoreManager.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\UI_ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_ScoreManager.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:46:41.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemies_HP.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Enemies_HP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies_HP.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Enemies_HP.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies_HP.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:52:34.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weapon_Swing.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Weapon_Swing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon_Swing.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Weapon_Swing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon_Swing.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:16:05.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemies_Spawn.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Enemies_Spawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies_Spawn.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Enemies_Spawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies_Spawn.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAcwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:56:18.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enemies_Movement.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Enemies_Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies_Movement.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\Enemies_Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies_Movement.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwDkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:55:10.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MathBasedMovement.cs",
+              "DocumentMoniker": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\In-Class\\Week 4\\MathBasedMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\In-Class\\Week 4\\MathBasedMovement.cs",
+              "ToolTip": "D:\\NYU\\2nd semester\\Intro to Programming in Unity\\Roguelike\\Assets\\Scripts\\In-Class\\Week 4\\MathBasedMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\In-Class\\Week 4\\MathBasedMovement.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAQwIsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:54:38.047Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
