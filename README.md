@@ -5,8 +5,13 @@
 
 // Version Control //
 
+Version 1.0000
+  character
+  - WASD walk
+  - single target skill
+
 Version 1.0001
-  function
+  character
   - click on walk
-  - range skill
+  - AOE skill
 
