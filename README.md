@@ -1,5 +1,17 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# ROGUELIKE GAME, NOT YET HAVE A NAME
 
-DO NOT LEAVE IT LIKE THIS!!!
+// Description //
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+
+// Version Control //
+
+Version 1.0000
+  character
+  - WASD walk
+  - single target skill
+
+Version 1.0001
+  character
+  - click on walk
+  - AOE skill
+
