@@ -53,7 +53,7 @@ public class Weapon_Swing : MonoBehaviour
             }
         }
 
-        // ¨Ï¥ÎlocalRotation¨Ó¬Û¹ï©ó¨¤¦â±ÛÂà¼C
+        // ä½¿ç”¨localRotationä¾†ç›¸å°æ–¼è§’è‰²æ—‹è½‰åŠ
         weapon.transform.localRotation = initialRotation * Quaternion.Euler(0, 0, -currentSwingAngle);
     }
 }
