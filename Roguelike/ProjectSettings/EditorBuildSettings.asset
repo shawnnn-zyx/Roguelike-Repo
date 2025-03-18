@@ -5,36 +5,24 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
     path: Assets/Scenes/01_Start.unity
     guid: 969e0a5b1a053fa4fbf105082dceb67d
   - enabled: 1
     path: Assets/Scenes/02_CharacterAttributes.unity
     guid: 2d790a836bc1b0c488625e61b84a6976
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/03_TutorialLevel.unity
     guid: 090fa1addb0e05c4caf460ecfdcc0bc4
+  - enabled: 1
+    path: Assets/Scenes/04_Bonus_Wave_1.unity
+    guid: 6dbe77efa0b6e7e44a2ab8ecf447f73c
   - enabled: 1
     path: Assets/Scenes/00_Win.unity
     guid: 92cf5f9511db6bc41a0ff213486c1109
   - enabled: 1
     path: Assets/Scenes/00_GameOver.unity
     guid: f25000ce596144444af50ab3d4f79185
-  - enabled: 1
-    path: Assets/Scenes/In-Class/Week 8 - Singleton.unity
-    guid: e337f2e7154f08c4cacf7bb9194dabfd
-  - enabled: 1
-    path: Assets/Scenes/In-Class/Week 8 - Singleton - Level 2.unity
-    guid: 34c62febcb2597d4a88fdd1ade93dcc1
-  - enabled: 1
-    path: Assets/Scenes/In-Class/Week 8 - Singleton - Level 3.unity
-    guid: 1e603516c27bd7b44b649cf4ce5eb50d
-  - enabled: 1
-    path: Assets/Scenes/In-Class/Week 8 GameOver.unity
-    guid: 686750c71f9d81a4eb746b148b58c699
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

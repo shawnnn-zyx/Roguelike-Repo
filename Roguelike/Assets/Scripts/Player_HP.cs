@@ -5,9 +5,12 @@ using TMPro;
 public class Player_HP : MonoBehaviour
 {
     public int maxHealth = 100;
-    private int currentHealth;
-
     public TextMeshProUGUI hpText;
+    private int currentHealth;
+    public int GetCurrentHealth()
+    {
+        return currentHealth;
+    }
 
     void Start()
     {
@@ -20,7 +23,7 @@ public class Player_HP : MonoBehaviour
         currentHealth -= damage;
         Debug.Log("Player got hit, remain HP: " + currentHealth);
 
-        UpdateHPUI(); // §ó·s UI
+        UpdateHPUI(); // ï¿½ï¿½s UI
 
         if (currentHealth <= 0)
         {
