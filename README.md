@@ -15,3 +15,6 @@ Version 1.0001
   - click on walk
   - AOE skill
 
+Version 1.0002
+  - set new scene
+  - singleton script
