@@ -59,6 +59,7 @@
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs" />
     <Compile Include="Assets\Scripts\Player_Movement.cs" />
     <Compile Include="Assets\Scripts\In-Class\Week 4\MathBasedMovement.cs" />
+    <Compile Include="Assets\Scripts\In-Class\Week 9\Week9ScoreOnClick.cs" />
     <Compile Include="Assets\Scripts\WASDcontroller.cs" />
     <Compile Include="Assets\Scripts\Enemies_HP.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
@@ -102,6 +103,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
     <Compile Include="Assets\Scripts\Enemies_Spawn.cs" />
     <Compile Include="Assets\Scripts\In-Class\Week 8\GameManagerWeek8.cs" />
+    <Compile Include="Assets\Scripts\In-Class\Week 9\Week9Gamemanager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\StarterAssets\FirstPersonController\Scripts\BasicRigidBodyPush.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
